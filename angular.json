@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "ProyectoStarWars"
+  "defaultProject": "ProyectoStarWars",
+  "cli": {
+    "analytics": "177647ed-7e73-4a81-8028-b9d7bdc08108"
+  }
 }
